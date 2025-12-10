@@ -1,0 +1,11 @@
+../Core/Src/main.c:41:17:INA219_ReadReg	3
+../Core/Src/main.c:55:13:INA219_WriteConfig	1
+../Core/Src/main.c:69:14:INA219_ReadBusVoltage_V	2
+../Core/Src/main.c:85:6:Task_Sense	2
+../Core/Src/main.c:94:6:Task_Control	2
+../Core/Src/main.c:109:6:Task_Heartbeat	1
+../Core/Src/main.c:120:5:main	1
+../Core/Src/main.c:160:6:SystemClock_Config	3
+../Core/Src/main.c:201:13:MX_I2C1_Init	2
+../Core/Src/main.c:223:13:MX_GPIO_Init	1
+../Core/Src/main.c:257:6:Error_Handler	1
